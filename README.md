@@ -8,13 +8,11 @@ An advanced dental diagnostic platform that leverages artificial intelligence to
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [API Documentation](#-api-documentation)
+- [Setup Instructions](#setup-instructions)
+- [Configuration](#configuration)
+- [Usage](#-usage)
 - [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ## 🎯 Overview
@@ -159,7 +157,7 @@ npm start
 
 The frontend will be available at `http://localhost:3000`
 
-## ⚙️ Configuration
+## Configuration
 
 ### Backend Configuration
 
@@ -255,63 +253,6 @@ Modern landing page with feature overview and app launch button.
 - Detailed diagnostic report
 - PDF download functionality
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow existing code style and conventions
-- Write clear commit messages
-- Test your changes thoroughly
-- Update documentation as needed
-
-
-### .gitignore
-
-Make sure to add the following to your `.gitignore`:
-```
-# Environment variables
-.env
-.env.local
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-uploads/
-
-# Node
-node_modules/
-build/
-.npm
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-```
-
-## 🧪 Testing
-
-### Backend Testing
-```bash
-cd backend
-pytest
-```
-
-### Frontend Testing
-```bash
-cd frontend
-npm test
-```
 
 ## 🚀 Deployment
 
@@ -371,7 +312,7 @@ Deploy the `build` folder to your hosting service (Netlify, Vercel, AWS S3, etc.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Author
+## Author
 
 - Gaurika Gupta,Final year student at NSUT 
 
@@ -384,9 +325,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open source community
 
 
-## ⚠️ Disclaimer
-
-**Note**: This is a demonstration/educational project. For clinical use, ensure compliance with all relevant medical device regulations (FDA, CE marking, etc.) and data protection laws (HIPAA, GDPR) in your jurisdiction. This software is provided "as is" without warranty of any kind. Always consult with qualified medical professionals for diagnosis and treatment.
 
 ---
 
