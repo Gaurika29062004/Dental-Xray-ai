@@ -106,7 +106,7 @@ dental-ai-project/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Gaurika29062004/Dental-Xray-ai>
 cd dental-ai-project
 ```
 
@@ -371,7 +371,7 @@ Deploy the `build` folder to your hosting service (Netlify, Vercel, AWS S3, etc.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+## 👥 Author
 
 - Gaurika Gupta,Final year student at NSUT 
 
