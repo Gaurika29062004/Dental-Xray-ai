@@ -1,4 +1,4 @@
-# 🦷 AI-Powered Dental Imaging System
+#  AI-Powered Dental Imaging System
 
 An advanced dental diagnostic platform that leverages artificial intelligence to analyze DICOM X-ray images, detect dental conditions, and generate comprehensive diagnostic reports automatically.
 
