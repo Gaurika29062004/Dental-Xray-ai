@@ -2,20 +2,20 @@
 
 An advanced dental diagnostic platform that leverages artificial intelligence to analyze DICOM X-ray images, detect dental conditions, and generate comprehensive diagnostic reports automatically.
 
-## 📋 Table of Contents
+##  Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Prerequisites](#-prerequisites)
-- [Project Structure](#-project-structure)
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
 - [Configuration](#configuration)
-- [Usage](#-usage)
-- [Screenshots](#-screenshots)
-- [License](#-license)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This application streamlines the dental diagnostic workflow by:
 - Processing DICOM medical imaging files
@@ -39,7 +39,7 @@ This application streamlines the dental diagnostic workflow by:
 - **Real-time Processing**: Live feedback during image analysis
 - **Responsive Layout**: Works seamlessly across different screen sizes
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Framework**: FastAPI
@@ -54,7 +54,7 @@ This application streamlines the dental diagnostic workflow by:
 - **HTTP Client**: Axios
 - **Routing**: React Router DOM
 
-## 📦 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -70,7 +70,7 @@ You'll need to obtain the following API keys:
 1. **Roboflow API Key**: [Get it here](https://roboflow.com/)
 2. **OpenRouter API Key**: [Get it here](https://openrouter.ai/)
 
-## 📁 Project Structure
+##  Project Structure
 ```
 dental-ai-project/
 ├── backend/
@@ -254,7 +254,7 @@ Modern landing page with feature overview and app launch button.
 - PDF download functionality
 
 
-## 🚀 Deployment
+##  Deployment
 
 ### Backend Deployment
 
@@ -290,14 +290,14 @@ npm run build
 
 Deploy the `build` folder to your hosting service (Netlify, Vercel, AWS S3, etc.)
 
-## 📊 Performance Optimization
+##  Performance Optimization
 
 - **Image Processing**: Large DICOM files may take longer to process
 - **API Rate Limits**: Be aware of Roboflow and OpenRouter rate limits
 - **Caching**: Consider implementing Redis for caching results
 - **CDN**: Use a CDN for static assets in production
 
-## 🔄 Future Enhancements
+##  Future Enhancements
 
 - [ ] Multi-language support
 - [ ] User authentication and authorization
@@ -308,7 +308,7 @@ Deploy the `build` folder to your hosting service (Netlify, Vercel, AWS S3, etc.
 - [ ] Mobile application
 - [ ] Cloud storage integration
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -316,7 +316,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Gaurika Gupta,Final year student at NSUT 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Roboflow](https://roboflow.com/) for object detection capabilities
 - [OpenRouter](https://openrouter.ai/) for LLM API access
