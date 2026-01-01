@@ -200,7 +200,7 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
 });
 ```
 
-## 📖 Usage
+##  Usage
 
 ### Step-by-Step Guide
 
@@ -238,7 +238,7 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
 - Toggle between light/dark themes using the theme switcher
 
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Welcome Screen
 Modern landing page with feature overview and app launch button.
