@@ -238,22 +238,23 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
 - Toggle between light/dark themes using the theme switcher
 
 
-##  Screenshots
+## Screenshots
 
+### Landing Page
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42a8c4f1-524d-4c18-a8e6-d49b141e3240" width="30%"><br>
-  <b>Landing Page</b>
+  <img src="https://github.com/user-attachments/assets/42a8c4f1-524d-4c18-a8e6-d49b141e3240" width="70%" />
 </p>
 
+### Report Generation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea8fb8f1-1e96-4ed7-aa26-6d991f203ade" width="30%"><br>
-  <b>Report Generation</b>
+  <img src="https://github.com/user-attachments/assets/ea8fb8f1-1e96-4ed7-aa26-6d991f203ade" width="70%" />
 </p>
 
+### Diagnostic Output
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc2ed4a3-59d8-4a44-96c3-06e797c656b2" width="30%"><br>
-  <b>Diagnostic Output</b>
+  <img src="https://github.com/user-attachments/assets/fc2ed4a3-59d8-4a44-96c3-06e797c656b2" width="70%" />
 </p>
+
 
 
 ### Welcome Screen
