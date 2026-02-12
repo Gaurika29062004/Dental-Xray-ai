@@ -239,6 +239,9 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
 
 
 ##  Screenshots
+<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/42a8c4f1-524d-4c18-a8e6-d49b141e3240" />
+<img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/ea8fb8f1-1e96-4ed7-aa26-6d991f203ade" />
+<img width="1280" height="723" alt="image" src="https://github.com/user-attachments/assets/fc2ed4a3-59d8-4a44-96c3-06e797c656b2" />
 
 ### Welcome Screen
 Modern landing page with feature overview and app launch button.
