@@ -241,17 +241,17 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
 ##  Screenshots
 
 <p align="center">
-  <img src="link1" width="30%"><br>
+  <img src="https://github.com/user-attachments/assets/42a8c4f1-524d-4c18-a8e6-d49b141e3240" width="30%"><br>
   <b>Landing Page</b>
 </p>
 
 <p align="center">
-  <img src="link2" width="30%"><br>
+  <img src="https://github.com/user-attachments/assets/ea8fb8f1-1e96-4ed7-aa26-6d991f203ade" width="30%"><br>
   <b>Report Generation</b>
 </p>
 
 <p align="center">
-  <img src="link3" width="30%"><br>
+  <img src="https://github.com/user-attachments/assets/fc2ed4a3-59d8-4a44-96c3-06e797c656b2" width="30%"><br>
   <b>Diagnostic Output</b>
 </p>
 
