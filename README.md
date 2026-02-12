@@ -245,16 +245,16 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
   <img src="https://github.com/user-attachments/assets/42a8c4f1-524d-4c18-a8e6-d49b141e3240" width="70%" />
 </p>
 
-### Report Generation
+### AI Prediction & Report
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea8fb8f1-1e96-4ed7-aa26-6d991f203ade" width="70%" />
+  <img src="https://github.com/user-attachments/assets/2513f9d8-7e30-44fe-8acc-130564b7e351" width="70%" />
 </p>
 
-### Diagnostic Output
+### Diagnostic Output (Light & Dark Theme)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc2ed4a3-59d8-4a44-96c3-06e797c656b2" width="70%" />
+  <img src="https://github.com/user-attachments/assets/6c26c3bb-8f9c-42af-9d3d-ce440e83b005" width="48%" />
+  <img src="https://github.com/user-attachments/assets/2d6a9f5d-1c6f-47bb-aa6e-cc8ea1676ba5" width="48%" />
 </p>
-
 
 
 ### Welcome Screen
