@@ -256,10 +256,6 @@ const response = await fetch("http://127.0.0.1:8000/upload", {
   <img src="https://github.com/user-attachments/assets/2d6a9f5d-1c6f-47bb-aa6e-cc8ea1676ba5" width="48%" />
 </p>
 
-
-### Welcome Screen
-Modern landing page with feature overview and app launch button.
-
 ### Main Interface
 - Patient information input panel
 - DICOM file upload section
