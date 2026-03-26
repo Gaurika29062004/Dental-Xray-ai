@@ -23,7 +23,7 @@ This application streamlines the dental diagnostic workflow by:
 - Generating professional diagnostic reports with LLM assistance
 - Providing an intuitive interface for dental professionals
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **DICOM File Processing**: Upload and convert DICOM files to viewable images
